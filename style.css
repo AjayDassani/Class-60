@@ -1,0 +1,30 @@
+#app
+{
+    
+padding-top: 30px;
+padding-bottom: 50px;
+}
+#games
+{
+    
+    padding-top: 30px;
+padding-bottom: 50px;
+}
+#chatbot
+{
+    
+    padding-top: 30px;
+    padding-bottom: 50px; 
+}
+body
+{
+    background: linear-gradient(#3168e8 0%,#178539 100%);
+}
+img
+{
+    transition: transform .2s ;
+}
+img:hover
+{
+    transform: scale(0.9);
+}
